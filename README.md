@@ -1,2 +1,2 @@
-# Prototype
+# ShareWay
 Prototype
